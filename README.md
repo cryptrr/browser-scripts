@@ -6,7 +6,7 @@ One Click Javascript Scripts and Tools for the browser.
 
 ## Touch DIV remover
 
-Removes a certain <div/> element on long press. Useful to remove interstitials blocking the screen.
+Removes a certain <div\/> element on long press. Useful to remove interstitials blocking the screen.
 
 ## Audio Downloader Generic
 
@@ -18,7 +18,7 @@ Download Video file that is playing in the browser
 
 ## Touch Div Fullscreen
 
-Make the long pressed <div/> go fullscreen.
+Make the long pressed <div\/> go fullscreen.
 
 ## Enter Fullscreen
 
@@ -38,7 +38,7 @@ Show only the video that is playing in the browser.
 
 ## Remove Scroll Lock
 
-Remove Scroll Lock from the HTML <body/>.
+Remove Scroll Lock from the HTML <body\/>.
 
 ## Open Dev Tools
 
