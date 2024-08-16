@@ -28,6 +28,10 @@ Download Audio file that is playing in the browser
 
 Download Video file that is playing in the browser
 
+## Block Videos and Audio on page
+
+Block all videos and audio requests on the page. Could be used to prevent unnecessary use of data on metered connections.
+
 ## Touch Div Fullscreen
 
 Make the long pressed <div\/> go fullscreen.
