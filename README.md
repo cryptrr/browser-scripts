@@ -2,6 +2,8 @@
 
 One Click Javascript Scripts and Tools for the browser.
 
+### Tested on Chrome Mobile and Desktop. But primarily targets Mobile. Should Work on all chromium based browsers.
+
 # Installation
 
 1. Git clone this repo or download the browser_scripts.html
@@ -12,7 +14,7 @@ One Click Javascript Scripts and Tools for the browser.
 
 1. Type the name of the bookmark script into the browser addressbar. And select the correct one from dropdown.
 
-## Tested on Chrome Mobile and Desktop. But primarily targets Mobile
+# Scripts Included
 
 ## Touch DIV remover
 
