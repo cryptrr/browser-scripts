@@ -4,15 +4,15 @@ One Click Javascript Scripts and Tools for the browser.
 
 ### Tested on Chrome Mobile and Desktop. But primarily targets Mobile. Should Work on all chromium based browsers.
 
-# Installation
-
-1. Git clone this repo or download the browser_scripts.html
-
-2. Import this bookmarks file to your browser (This is a NETSCAPE Bookmark File that can be imported to Chrome and Firefox based browsers.)
-
 # Usage
 
-1. Type the name of the bookmark script into the browser addressbar. And select the correct one from dropdown.
+1. Type the name of the bookmark script into the browser addressbar. And click the correct one from dropdown.
+
+# Installation
+
+1. Git clone this repo or download the browser_scripts_bookmarks.html
+
+2. Import this bookmarks file to your browser (This is a NETSCAPE Bookmark File that can be imported to Chrome and Firefox based browsers.)
 
 # Scripts Included
 
